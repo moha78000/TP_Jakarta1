@@ -10,6 +10,8 @@
 <a href="hello-servlet">Hello Servlet</a>
 <a href="testHttp"> HTTP</a>
 <a href="formulaire.jsp"> formulaire</a>
+<a href="login.jsp"> Se connecter</a>
+
 
 </body>
 </html>
